@@ -8,7 +8,7 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "build-and-deploy-gh-pages": "ng build --prod --base-href https://haroldomarcenariaaraxa.github.io/marcenaria/ && npx ngh --dir dist/marcenaria"
+    "build-and-deploy-gh-pages": "ng build --prod --base-href https://haroldomarcenaria.github.io/ && npx ngh --dir dist/marcenaria"
   },
   "private": true,
   "dependencies": {
